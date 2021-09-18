@@ -1,5 +1,5 @@
 {
-    "name": "xrayku",
+    "name": "xcat",
     "description": "xray websocket proxy on heroku",
     "keywords": ["xray vmess vless trojan shadowsocks socks tor"],
     "env": {
@@ -32,7 +32,7 @@
             "value": "https://raw.githubusercontent.com/mixool/xrayku/master/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/mixool/xrayku",
-    "repository": "https://github.com/mixool/xrayku",
+    "website": "https://github.com/catmier/xcat",
+    "repository": "https://github.com/catmier/xcat",
     "stack": "container"
 }
